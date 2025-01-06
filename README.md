@@ -5,12 +5,12 @@ Este é um projeto desenvolvido para a disciplina de **Web 1** com o objetivo de
 ## Funcionalidades
 - **Cadastro de Usuários**: Registre novos usuários no sistema.
 - **Login de Usuários**: Autenticação segura utilizando sessões PHP e criptografia de senhas.
-- ![Tela de Login](login.png)
+- ![Tela de Login](img/login.png)
 - **Gerenciamento de Clientes**: Adicione, edite, visualize e exclua informações de clientes.
-- ![Tela de Login](clientes.png)
+- ![Tela de Login](img/clientes.png)
 - **Gerenciamento de Ordens de Serviço**: Cadastre, edite, visualize e gerencie ordens de serviço.
-- ![Tela de Login](detalhes.png)
-- ![Tela de Login](editar.png)
+- ![Tela de Login](img/detalhes.png)
+- ![Tela de Login](img/editar.png)
 
 ## Tecnologias Utilizadas
 - **Linguagem de Programação**: PHP
