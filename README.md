@@ -12,11 +12,20 @@ Este é um projeto desenvolvido para a disciplina de **Web 1** com o objetivo de
 - ![Tela de Login](img/detalhes.png)
 - ![Tela de Login](img/editar.png)
 
-## Tecnologias Utilizadas
-- **Linguagem de Programação**: PHP
-- **Banco de Dados**: MySQL
-- **Frontend**: HTML5, CSS3 (com Bootstrap 5)
-- **Outros**: Font Awesome (ícones)
+### Linguagem de Programação: 
+![PHP](https://img.shields.io/badge/-PHP-%2370DB8D?style=flat&logo=php&logoColor=white)
+
+### Banco de Dados: 
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+
+### Frontend: 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### Outros: 
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-%2335B8D5?style=flat&logo=font-awesome&logoColor=white)
+
 
 ## Estrutura do Projeto
 - **/db**: Scripts de conexão com o banco de dados.
