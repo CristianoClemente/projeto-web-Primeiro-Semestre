@@ -86,7 +86,6 @@ if ($cliente) {
                                             <span>Não informado</span>
                                         <?php } ?>
                                     </td>
-                                    <td><?= $ordem['statusOS'] ?></td>
                                     <td>R$ <?= $ordem['valorServico'] ?></td>
                                     <td>
                                         <?php if ($ordem["statusPagamento"] === "Pago") { ?>
